@@ -17,6 +17,12 @@
          "last": "last3",
          "department": "iib",
          "age": 22
+      },
+      {
+         "first": "first4",
+         "last": "last4",
+         "department": "iib",
+         "age": 22
       }
    ]
 }
